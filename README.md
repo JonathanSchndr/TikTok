@@ -6,4 +6,4 @@ https://www.tiktok.com/@jonathanschndr
 
 ## Join Discord
 
-![Discord](https://discordapp.com/api/guilds/889432631672983562/widget.png?style=banner4)
+[![Discord](https://discordapp.com/api/guilds/889432631672983562/widget.png?style=banner4)](https://discord.gg/GP6NpfhZUa)
