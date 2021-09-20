@@ -1,8 +1,6 @@
 # TikTok von JonathanSchndr
 
-Dies ist das Repo mit dem Code aus meinen TikTok Videos. Die Ordner beziehen immer auf ein Projekt bzw. Video. Du kannst das Repo einfach runterladen und starten. In jedem Ordner ist eine zusätzliche README Datei als Anleitung.
-
-https://www.tiktok.com/@jonathanschndr
+Hier findet ihr den Code aus meinen TikTok Videos. Die Ordner beziehen immer auf ein Projekt bzw. Video. Du kannst das Repo einfach runterladen und das jeweilige Projekt starten. In jedem Ordner ist eine zusätzliche README Datei als Anleitung.
 
 ## Join Discord
 
