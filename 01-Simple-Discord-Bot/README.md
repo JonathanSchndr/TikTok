@@ -1,5 +1,7 @@
 # Simple Discord Bot
 
+Video: https://www.tiktok.com/@jonathanschndr/video/7010062484308528389
+
 ## Requirements
 - Mac, Windows oder Linux System
 - Discord Server
