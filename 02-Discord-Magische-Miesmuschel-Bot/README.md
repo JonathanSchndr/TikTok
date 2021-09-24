@@ -25,3 +25,4 @@ Wichtig: Wenn du dies lokal auf deinem Rechner ausführst, funktioniert der Bot 
 - https://discord.js.org/#/docs/main/stable/general/welcome
 - https://github.com/discordjs/discord.js
 - https://discordjs.guide/#before-you-begin
+- https://yesno.wtf/
