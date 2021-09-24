@@ -1,4 +1,4 @@
-# Simple Discord Bot
+# Discord Magische Miesmuschel Bot
 
 ## Requirements
 - Mac, Windows oder Linux System
