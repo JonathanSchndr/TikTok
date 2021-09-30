@@ -1,0 +1,6 @@
+[
+  {
+    "type": "typeTextFromFile",
+    "path": "./source.txt"
+  }
+]
