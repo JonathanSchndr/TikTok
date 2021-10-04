@@ -47,7 +47,7 @@ function keyPressed() {
       gameOver = true
 
       let newGame = confirm("GAME OVER :(");
-      if (newGame) {
+      if (newGame || !newGame) {
         move = true;
         position = 595
         gameOver = false
@@ -59,7 +59,7 @@ function keyPressed() {
 
     if (position < 43) {
       let newGame = confirm("WIN :D");
-      if (newGame) {
+      if (newGame || !newGame) {
         move = true;
         position = 595
         gameOver = false
